@@ -1,2 +1,2 @@
 # gas-ical-sync
-Syncs Ical to Google Drive
+Syncs Ical to Google Calendar
