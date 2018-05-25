@@ -97,8 +97,8 @@ function main() {
       if (response[i].includes("LOCATION"))
         currentEvent.location = response[i].split("LOCATION:")[1];
         
-      if (response[i].includes("UID"))
-        currentEvent.id = response[i].split("UID:")[1];
+      //if (response[i].includes("UID"))
+      //  currentEvent.id = response[i].split("UID:")[1];
     }
   }
   //----------------------------------------------------------------
